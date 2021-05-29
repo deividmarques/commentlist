@@ -34,7 +34,7 @@ const AvatarDiv = styled.div`
   height: 48px;
   width: 48px;
   margin-right: 14px;
-  background: #dfecf2;
+  background: #4ebff3;
   border-radius: 48px;
 `;
 
@@ -50,8 +50,8 @@ const AvatarImg = styled.img`
 
 const MessageDiv = styled.div`
   overflow: hidden;
-  padding-top: 10px;
-  padding-right: 20px;
+  padding-top: 5px;
+  padding-right: 10px;
 `;
 
 const AuthorSpan = styled.span`
